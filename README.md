@@ -1,6 +1,6 @@
 # StackOverflow Clone with API-based Upvoting
 
-This is a simple application inspired by StackOverflow, built using Ruby on Rails. The app provides APIs for creating questions, adding answers, upvoting both questions and answers, and retrieving answers for specific questions with upvote counts.
+This is a simple application inspired by StackOverflow, built using Ruby on Rails. The app provides APIs for creating questions, adding answers, upvoting both questions and answers, and retrieving answers for specific questions with upvote counts. This is a personal project just to learn ROR
 
 ## Features
 - **Create Questions**: Allows users to create new questions.
